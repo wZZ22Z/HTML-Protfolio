@@ -1,0 +1,26 @@
+.header{
+    width: 80%;
+    margin: 0,auto;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.birthday{
+    display: flex;
+    background-image: url(../assets/images/birthday-invite.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    margin:20px,auto;
+}
+.movie{
+    display: block;
+    background-image: url(../assets/images/movie-ranking.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    margin:20px,auto;
+}
